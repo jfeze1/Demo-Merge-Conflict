@@ -1,4 +1,3 @@
 # Demo-Merge-Conflict
 
-
-By Raoul
+A simple demo, by raoul, For nothing
